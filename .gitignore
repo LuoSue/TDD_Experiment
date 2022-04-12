@@ -1,0 +1,7 @@
+geckodriver.log
+suplerlists/db.sqlite3
+suplerlists/geckodriver.log
+suplerlists/__pycache__/__init__.cpython-38.pyc
+suplerlists/__pycache__/settings.cpython-38.pyc
+suplerlists/__pycache__/urls.cpython-38.pyc
+suplerlists/__pycache__/wsgi.cpython-38.pyc
