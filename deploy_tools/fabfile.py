@@ -4,6 +4,9 @@ import random
 
 REPO_URL = 'https://github.com/LuoSue/TDD_Experiment.git'
 
+env.user = 'root'
+env.host = '82.157.129.8'
+
 def deploy():
     site_folder = f'/{env.user}/sites/{env.host}'
     source_folder = site_folder + '/source'
